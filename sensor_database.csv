@@ -33,7 +33,7 @@ AgfaPhoto;AgfaPhoto DC-630;5.75
 AgfaPhoto;AgfaPhoto DC-630i;5.75
 AgfaPhoto;AgfaPhoto DC-630x;5.75
 AgfaPhoto;AgfaPhoto DC-633x;5.75
-AgfaPhoto;AgfaPhoto DC-633xs;5.75
+AgfaPhoto;AgfaPhoto DC-633xs;5.75F
 AgfaPhoto;AgfaPhoto DC-730i;5.75
 AgfaPhoto;AgfaPhoto DC-733i;5.75
 AgfaPhoto;AgfaPhoto DC-733s;5.75
@@ -1630,6 +1630,7 @@ Minox;Minox DD200;6.4
 Minox;Minox DM 1;6.4
 Minox;Minox Mobi DV;6.4
 Minox;Minox Rolleiflex MiniDigi;6.4
+Motorola;MotoE2(4G-LTE);2.8
 Nikon;Nikon 1 AW1;13.2
 Nikon;Nikon 1 J1;13.2
 Nikon;Nikon 1 J2;13.2
